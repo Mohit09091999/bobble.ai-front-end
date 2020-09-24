@@ -63,6 +63,7 @@ class Welcome extends Component {
     const responseGoogle = (response) => {
       console.log("google console");
       console.log(response);
+      console.log(response.profileObj);
       this.signup(response, "google");
     };
 
@@ -84,7 +85,7 @@ class Welcome extends Component {
               Create Your Account
             </p>
             <p style={{ color: "grey", marginTop: "0px" }}>
-              Nquisquam est qui dolorem ipsum quia dolor sit amet
+              ---
             </p>
             <div style={{ width: "85%", margin: "auto", marginTop: "40px" }}>
               <GoogleLogin
@@ -92,6 +93,7 @@ class Welcome extends Component {
                 buttonText="Signup with Google"
                 onSuccess={responseGoogle}
                 onFailure={responseGoogle}
+                cookiePolicy={'single_host_origin'}
               />
 
               <FacebookLogin
