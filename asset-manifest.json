@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bobble.ai-front-end/static/css/main.0a25dd40.chunk.css",
+    "main.js": "/bobble.ai-front-end/static/js/main.0f70b624.chunk.js",
+    "main.js.map": "/bobble.ai-front-end/static/js/main.0f70b624.chunk.js.map",
+    "runtime-main.js": "/bobble.ai-front-end/static/js/runtime-main.54dc0124.js",
+    "runtime-main.js.map": "/bobble.ai-front-end/static/js/runtime-main.54dc0124.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/bobble.ai-front-end/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a97232ed.chunk.js": "/bobble.ai-front-end/static/js/2.a97232ed.chunk.js",
+    "static/js/2.a97232ed.chunk.js.map": "/bobble.ai-front-end/static/js/2.a97232ed.chunk.js.map",
+    "index.html": "/bobble.ai-front-end/index.html",
+    "precache-manifest.4b23e5f265e09c8480002ebd21871190.js": "/bobble.ai-front-end/precache-manifest.4b23e5f265e09c8480002ebd21871190.js",
+    "service-worker.js": "/bobble.ai-front-end/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/bobble.ai-front-end/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.0a25dd40.chunk.css.map": "/bobble.ai-front-end/static/css/main.0a25dd40.chunk.css.map",
+    "static/js/2.a97232ed.chunk.js.LICENSE.txt": "/bobble.ai-front-end/static/js/2.a97232ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54dc0124.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a97232ed.chunk.js",
+    "static/css/main.0a25dd40.chunk.css",
+    "static/js/main.0f70b624.chunk.js"
+  ]
+}
